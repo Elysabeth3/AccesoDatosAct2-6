@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Agenda>
+    <Contacto>
+        <Nombre/>
+        <Apellidos>Elisabeth</Apellidos>
+        <Correo>arjonabadiaelisabeth@gmail.com</Correo>
+        <NumTel>653350025</NumTel>
+        <Descripcion>Yo</Descripcion>
+    </Contacto>
+    <Contacto>
+        <Nombre/>
+        <Apellidos>Ivan</Apellidos>
+        <Correo>ivan@gmail.com</Correo>
+        <NumTel>684251858</NumTel>
+        <Descripcion>Ivan clase</Descripcion>
+    </Contacto>
+</Agenda>
